@@ -11,10 +11,7 @@ just simply use up key,down ley,right key,and left key, in this game you have to
 colliting with taxi,truck if you colliting with truck,taxi then game is over and when again press space key then 
 again game is start.while you playing the game score is incress and when the game is over the it display the total
 score and when again press the space key to restart game then score is 0.when taxi and truck hit respwn then the 
-taxi and truck speed is incress
-
-issued in my game:
-threr is one issue in my game is that there is only 1% chance when taxi and truck is colliting  
+taxi and truck speed is incress 
 
 Best features of that game:
 i created perfect collision boundary of truck and taxi when thay hit the car.
