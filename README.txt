@@ -1,5 +1,15 @@
+To Run this Game you need Python and pip to be installed in your computer. If not then follow these Step 
+Step 1: curl -o python-installer.exe https://www.python.org/ftp/python/3.12.0/python-3.12.0-amd64.exe
+
+Step 2: python-installer.exe /quiet InstallAllUsers=1 PrependPath=1 Include_pip=1
+
+
 How To Run This Game:
-To Run This Game Just Run Python -u "main.py"
+Step 1: git clone https://github.com/ompatelrmit/2D-Car-Game-.git
+
+Step 2: pip install pygame
+
+Step 3: Python -u "main.py"
 
 Description of this game:
 Game Name:Car Game
